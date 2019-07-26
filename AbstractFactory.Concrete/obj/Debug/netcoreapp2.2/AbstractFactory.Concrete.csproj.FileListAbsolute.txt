@@ -1,0 +1,10 @@
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\1 - Module 1 Module 2-1\AbstractFactory.Concrete\bin\Debug\netcoreapp2.2\AbstractFactory.Concrete.deps.json
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\1 - Module 1 Module 2-1\AbstractFactory.Concrete\bin\Debug\netcoreapp2.2\AbstractFactory.Concrete.runtimeconfig.json
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\1 - Module 1 Module 2-1\AbstractFactory.Concrete\bin\Debug\netcoreapp2.2\AbstractFactory.Concrete.runtimeconfig.dev.json
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\1 - Module 1 Module 2-1\AbstractFactory.Concrete\bin\Debug\netcoreapp2.2\AbstractFactory.Concrete.dll
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\1 - Module 1 Module 2-1\AbstractFactory.Concrete\bin\Debug\netcoreapp2.2\AbstractFactory.Concrete.pdb
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\1 - Module 1 Module 2-1\AbstractFactory.Concrete\obj\Debug\netcoreapp2.2\AbstractFactory.Concrete.csproj.CoreCompileInputs.cache
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\1 - Module 1 Module 2-1\AbstractFactory.Concrete\obj\Debug\netcoreapp2.2\AbstractFactory.Concrete.AssemblyInfoInputs.cache
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\1 - Module 1 Module 2-1\AbstractFactory.Concrete\obj\Debug\netcoreapp2.2\AbstractFactory.Concrete.AssemblyInfo.cs
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\1 - Module 1 Module 2-1\AbstractFactory.Concrete\obj\Debug\netcoreapp2.2\AbstractFactory.Concrete.dll
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\1 - Module 1 Module 2-1\AbstractFactory.Concrete\obj\Debug\netcoreapp2.2\AbstractFactory.Concrete.pdb

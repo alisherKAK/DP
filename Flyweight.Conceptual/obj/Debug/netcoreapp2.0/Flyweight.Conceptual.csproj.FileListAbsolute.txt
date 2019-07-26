@@ -1,0 +1,4 @@
+D:\repos\step\dp\orig\design-patterns-csharp\Flyweight.Conceptual\obj\Debug\netcoreapp2.0\Flyweight.Conceptual.csprojAssemblyReference.cache
+D:\repos\step\dp\orig\design-patterns-csharp\Flyweight.Conceptual\obj\Debug\netcoreapp2.0\Flyweight.Conceptual.csproj.CoreCompileInputs.cache
+D:\repos\step\dp\orig\design-patterns-csharp\Flyweight.Conceptual\obj\Debug\netcoreapp2.0\Flyweight.Conceptual.AssemblyInfoInputs.cache
+D:\repos\step\dp\orig\design-patterns-csharp\Flyweight.Conceptual\obj\Debug\netcoreapp2.0\Flyweight.Conceptual.AssemblyInfo.cs

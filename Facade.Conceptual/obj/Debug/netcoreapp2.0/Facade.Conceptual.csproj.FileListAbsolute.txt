@@ -1,0 +1,10 @@
+D:\repos\step\dp\orig\design-patterns-csharp\Facade.Conceptual\bin\Debug\netcoreapp2.0\Facade.Conceptual.deps.json
+D:\repos\step\dp\orig\design-patterns-csharp\Facade.Conceptual\bin\Debug\netcoreapp2.0\Facade.Conceptual.runtimeconfig.json
+D:\repos\step\dp\orig\design-patterns-csharp\Facade.Conceptual\bin\Debug\netcoreapp2.0\Facade.Conceptual.runtimeconfig.dev.json
+D:\repos\step\dp\orig\design-patterns-csharp\Facade.Conceptual\bin\Debug\netcoreapp2.0\Facade.Conceptual.dll
+D:\repos\step\dp\orig\design-patterns-csharp\Facade.Conceptual\bin\Debug\netcoreapp2.0\Facade.Conceptual.pdb
+D:\repos\step\dp\orig\design-patterns-csharp\Facade.Conceptual\obj\Debug\netcoreapp2.0\Facade.Conceptual.csproj.CoreCompileInputs.cache
+D:\repos\step\dp\orig\design-patterns-csharp\Facade.Conceptual\obj\Debug\netcoreapp2.0\Facade.Conceptual.AssemblyInfoInputs.cache
+D:\repos\step\dp\orig\design-patterns-csharp\Facade.Conceptual\obj\Debug\netcoreapp2.0\Facade.Conceptual.AssemblyInfo.cs
+D:\repos\step\dp\orig\design-patterns-csharp\Facade.Conceptual\obj\Debug\netcoreapp2.0\Facade.Conceptual.dll
+D:\repos\step\dp\orig\design-patterns-csharp\Facade.Conceptual\obj\Debug\netcoreapp2.0\Facade.Conceptual.pdb

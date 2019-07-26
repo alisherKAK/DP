@@ -1,0 +1,10 @@
+D:\repos\step\dp\orig\design-patterns-csharp\Observer.Conceptual\bin\Debug\netcoreapp2.0\Observer.Conceptual.deps.json
+D:\repos\step\dp\orig\design-patterns-csharp\Observer.Conceptual\bin\Debug\netcoreapp2.0\Observer.Conceptual.runtimeconfig.json
+D:\repos\step\dp\orig\design-patterns-csharp\Observer.Conceptual\bin\Debug\netcoreapp2.0\Observer.Conceptual.runtimeconfig.dev.json
+D:\repos\step\dp\orig\design-patterns-csharp\Observer.Conceptual\bin\Debug\netcoreapp2.0\Observer.Conceptual.dll
+D:\repos\step\dp\orig\design-patterns-csharp\Observer.Conceptual\bin\Debug\netcoreapp2.0\Observer.Conceptual.pdb
+D:\repos\step\dp\orig\design-patterns-csharp\Observer.Conceptual\obj\Debug\netcoreapp2.0\Observer.Conceptual.csproj.CoreCompileInputs.cache
+D:\repos\step\dp\orig\design-patterns-csharp\Observer.Conceptual\obj\Debug\netcoreapp2.0\Observer.Conceptual.AssemblyInfoInputs.cache
+D:\repos\step\dp\orig\design-patterns-csharp\Observer.Conceptual\obj\Debug\netcoreapp2.0\Observer.Conceptual.AssemblyInfo.cs
+D:\repos\step\dp\orig\design-patterns-csharp\Observer.Conceptual\obj\Debug\netcoreapp2.0\Observer.Conceptual.dll
+D:\repos\step\dp\orig\design-patterns-csharp\Observer.Conceptual\obj\Debug\netcoreapp2.0\Observer.Conceptual.pdb

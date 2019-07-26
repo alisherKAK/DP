@@ -1,0 +1,11 @@
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Conceptual/bin/Debug/netcoreapp2.2/Bridge.Conceptual.deps.json
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Conceptual/bin/Debug/netcoreapp2.2/Bridge.Conceptual.runtimeconfig.json
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Conceptual/bin/Debug/netcoreapp2.2/Bridge.Conceptual.runtimeconfig.dev.json
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Conceptual/bin/Debug/netcoreapp2.2/Bridge.Conceptual.dll
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Conceptual/bin/Debug/netcoreapp2.2/Bridge.Conceptual.pdb
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Conceptual/obj/Debug/netcoreapp2.2/Bridge.Conceptual.csprojAssemblyReference.cache
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Conceptual/obj/Debug/netcoreapp2.2/Bridge.Conceptual.csproj.CoreCompileInputs.cache
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Conceptual/obj/Debug/netcoreapp2.2/Bridge.Conceptual.AssemblyInfoInputs.cache
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Conceptual/obj/Debug/netcoreapp2.2/Bridge.Conceptual.AssemblyInfo.cs
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Conceptual/obj/Debug/netcoreapp2.2/Bridge.Conceptual.dll
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Conceptual/obj/Debug/netcoreapp2.2/Bridge.Conceptual.pdb

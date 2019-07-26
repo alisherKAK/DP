@@ -1,0 +1,10 @@
+D:\repos\step\dp\orig\design-patterns-csharp\Strategy.Conceptual\bin\Debug\netcoreapp2.0\Strategy.Conceptual.deps.json
+D:\repos\step\dp\orig\design-patterns-csharp\Strategy.Conceptual\bin\Debug\netcoreapp2.0\Strategy.Conceptual.runtimeconfig.json
+D:\repos\step\dp\orig\design-patterns-csharp\Strategy.Conceptual\bin\Debug\netcoreapp2.0\Strategy.Conceptual.runtimeconfig.dev.json
+D:\repos\step\dp\orig\design-patterns-csharp\Strategy.Conceptual\bin\Debug\netcoreapp2.0\Strategy.Conceptual.dll
+D:\repos\step\dp\orig\design-patterns-csharp\Strategy.Conceptual\bin\Debug\netcoreapp2.0\Strategy.Conceptual.pdb
+D:\repos\step\dp\orig\design-patterns-csharp\Strategy.Conceptual\obj\Debug\netcoreapp2.0\Strategy.Conceptual.csproj.CoreCompileInputs.cache
+D:\repos\step\dp\orig\design-patterns-csharp\Strategy.Conceptual\obj\Debug\netcoreapp2.0\Strategy.Conceptual.AssemblyInfoInputs.cache
+D:\repos\step\dp\orig\design-patterns-csharp\Strategy.Conceptual\obj\Debug\netcoreapp2.0\Strategy.Conceptual.AssemblyInfo.cs
+D:\repos\step\dp\orig\design-patterns-csharp\Strategy.Conceptual\obj\Debug\netcoreapp2.0\Strategy.Conceptual.dll
+D:\repos\step\dp\orig\design-patterns-csharp\Strategy.Conceptual\obj\Debug\netcoreapp2.0\Strategy.Conceptual.pdb

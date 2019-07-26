@@ -1,0 +1,11 @@
+E:\Work\STEP\DP\Lessons\Code\Interpreter\bin\Debug\netcoreapp3.0\Interpreter.exe
+E:\Work\STEP\DP\Lessons\Code\Interpreter\bin\Debug\netcoreapp3.0\Interpreter.deps.json
+E:\Work\STEP\DP\Lessons\Code\Interpreter\bin\Debug\netcoreapp3.0\Interpreter.runtimeconfig.json
+E:\Work\STEP\DP\Lessons\Code\Interpreter\bin\Debug\netcoreapp3.0\Interpreter.runtimeconfig.dev.json
+E:\Work\STEP\DP\Lessons\Code\Interpreter\bin\Debug\netcoreapp3.0\Interpreter.dll
+E:\Work\STEP\DP\Lessons\Code\Interpreter\bin\Debug\netcoreapp3.0\Interpreter.pdb
+E:\Work\STEP\DP\Lessons\Code\Interpreter\obj\Debug\netcoreapp3.0\Interpreter.csproj.CoreCompileInputs.cache
+E:\Work\STEP\DP\Lessons\Code\Interpreter\obj\Debug\netcoreapp3.0\Interpreter.AssemblyInfoInputs.cache
+E:\Work\STEP\DP\Lessons\Code\Interpreter\obj\Debug\netcoreapp3.0\Interpreter.AssemblyInfo.cs
+E:\Work\STEP\DP\Lessons\Code\Interpreter\obj\Debug\netcoreapp3.0\Interpreter.dll
+E:\Work\STEP\DP\Lessons\Code\Interpreter\obj\Debug\netcoreapp3.0\Interpreter.pdb

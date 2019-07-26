@@ -1,0 +1,21 @@
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\5 - Module 4-2\State.Concrete.2\bin\Debug\netcoreapp2.2\State.Concrete.2.deps.json
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\5 - Module 4-2\State.Concrete.2\bin\Debug\netcoreapp2.2\State.Concrete.2.runtimeconfig.json
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\5 - Module 4-2\State.Concrete.2\bin\Debug\netcoreapp2.2\State.Concrete.2.runtimeconfig.dev.json
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\5 - Module 4-2\State.Concrete.2\bin\Debug\netcoreapp2.2\State.Concrete.2.dll
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\5 - Module 4-2\State.Concrete.2\bin\Debug\netcoreapp2.2\State.Concrete.2.pdb
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\5 - Module 4-2\State.Concrete.2\obj\Debug\netcoreapp2.2\State.Concrete.2.csproj.CoreCompileInputs.cache
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\5 - Module 4-2\State.Concrete.2\obj\Debug\netcoreapp2.2\State.Concrete.2.AssemblyInfoInputs.cache
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\5 - Module 4-2\State.Concrete.2\obj\Debug\netcoreapp2.2\State.Concrete.2.AssemblyInfo.cs
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\5 - Module 4-2\State.Concrete.2\obj\Debug\netcoreapp2.2\State.Concrete.2.dll
+D:\Users\kiwag\OneDrive\Documents\Step\Courses\DP\presentations\byDays\5 - Module 4-2\State.Concrete.2\obj\Debug\netcoreapp2.2\State.Concrete.2.pdb
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.2\bin\Debug\netcoreapp2.2\State.Concrete.2.deps.json
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.2\bin\Debug\netcoreapp2.2\State.Concrete.2.runtimeconfig.json
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.2\bin\Debug\netcoreapp2.2\State.Concrete.2.runtimeconfig.dev.json
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.2\bin\Debug\netcoreapp2.2\State.Concrete.2.dll
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.2\bin\Debug\netcoreapp2.2\State.Concrete.2.pdb
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.2\obj\Debug\netcoreapp2.2\State.Concrete.2.csprojAssemblyReference.cache
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.2\obj\Debug\netcoreapp2.2\State.Concrete.2.csproj.CoreCompileInputs.cache
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.2\obj\Debug\netcoreapp2.2\State.Concrete.2.AssemblyInfoInputs.cache
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.2\obj\Debug\netcoreapp2.2\State.Concrete.2.AssemblyInfo.cs
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.2\obj\Debug\netcoreapp2.2\State.Concrete.2.dll
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.2\obj\Debug\netcoreapp2.2\State.Concrete.2.pdb

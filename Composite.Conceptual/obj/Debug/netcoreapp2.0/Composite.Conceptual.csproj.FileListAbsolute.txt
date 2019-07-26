@@ -1,0 +1,10 @@
+D:\repos\step\dp\orig\design-patterns-csharp\Composite.Conceptual\bin\Debug\netcoreapp2.0\Composite.Conceptual.deps.json
+D:\repos\step\dp\orig\design-patterns-csharp\Composite.Conceptual\bin\Debug\netcoreapp2.0\Composite.Conceptual.runtimeconfig.json
+D:\repos\step\dp\orig\design-patterns-csharp\Composite.Conceptual\bin\Debug\netcoreapp2.0\Composite.Conceptual.runtimeconfig.dev.json
+D:\repos\step\dp\orig\design-patterns-csharp\Composite.Conceptual\bin\Debug\netcoreapp2.0\Composite.Conceptual.dll
+D:\repos\step\dp\orig\design-patterns-csharp\Composite.Conceptual\bin\Debug\netcoreapp2.0\Composite.Conceptual.pdb
+D:\repos\step\dp\orig\design-patterns-csharp\Composite.Conceptual\obj\Debug\netcoreapp2.0\Composite.Conceptual.csproj.CoreCompileInputs.cache
+D:\repos\step\dp\orig\design-patterns-csharp\Composite.Conceptual\obj\Debug\netcoreapp2.0\Composite.Conceptual.AssemblyInfoInputs.cache
+D:\repos\step\dp\orig\design-patterns-csharp\Composite.Conceptual\obj\Debug\netcoreapp2.0\Composite.Conceptual.AssemblyInfo.cs
+D:\repos\step\dp\orig\design-patterns-csharp\Composite.Conceptual\obj\Debug\netcoreapp2.0\Composite.Conceptual.dll
+D:\repos\step\dp\orig\design-patterns-csharp\Composite.Conceptual\obj\Debug\netcoreapp2.0\Composite.Conceptual.pdb

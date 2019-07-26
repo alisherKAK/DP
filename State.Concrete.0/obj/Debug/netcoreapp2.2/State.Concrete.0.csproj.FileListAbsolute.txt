@@ -1,0 +1,10 @@
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.0\bin\Debug\netcoreapp2.2\State.Concrete.0.deps.json
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.0\bin\Debug\netcoreapp2.2\State.Concrete.0.runtimeconfig.json
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.0\bin\Debug\netcoreapp2.2\State.Concrete.0.runtimeconfig.dev.json
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.0\bin\Debug\netcoreapp2.2\State.Concrete.0.dll
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.0\bin\Debug\netcoreapp2.2\State.Concrete.0.pdb
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.0\obj\Debug\netcoreapp2.2\State.Concrete.0.csproj.CoreCompileInputs.cache
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.0\obj\Debug\netcoreapp2.2\State.Concrete.0.AssemblyInfoInputs.cache
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.0\obj\Debug\netcoreapp2.2\State.Concrete.0.AssemblyInfo.cs
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.0\obj\Debug\netcoreapp2.2\State.Concrete.0.dll
+D:\repos\step\dp\design-patterns-csharp-concrete\State.Concrete.0\obj\Debug\netcoreapp2.2\State.Concrete.0.pdb

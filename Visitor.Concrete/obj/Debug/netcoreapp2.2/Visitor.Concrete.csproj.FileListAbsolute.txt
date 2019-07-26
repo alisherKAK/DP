@@ -1,0 +1,10 @@
+D:\repos\step\dp\design-patterns-csharp-concrete\Visitor.Concrete\bin\Debug\netcoreapp2.2\Visitor.Concrete.deps.json
+D:\repos\step\dp\design-patterns-csharp-concrete\Visitor.Concrete\bin\Debug\netcoreapp2.2\Visitor.Concrete.runtimeconfig.json
+D:\repos\step\dp\design-patterns-csharp-concrete\Visitor.Concrete\bin\Debug\netcoreapp2.2\Visitor.Concrete.runtimeconfig.dev.json
+D:\repos\step\dp\design-patterns-csharp-concrete\Visitor.Concrete\bin\Debug\netcoreapp2.2\Visitor.Concrete.dll
+D:\repos\step\dp\design-patterns-csharp-concrete\Visitor.Concrete\bin\Debug\netcoreapp2.2\Visitor.Concrete.pdb
+D:\repos\step\dp\design-patterns-csharp-concrete\Visitor.Concrete\obj\Debug\netcoreapp2.2\Visitor.Concrete.csproj.CoreCompileInputs.cache
+D:\repos\step\dp\design-patterns-csharp-concrete\Visitor.Concrete\obj\Debug\netcoreapp2.2\Visitor.Concrete.AssemblyInfoInputs.cache
+D:\repos\step\dp\design-patterns-csharp-concrete\Visitor.Concrete\obj\Debug\netcoreapp2.2\Visitor.Concrete.AssemblyInfo.cs
+D:\repos\step\dp\design-patterns-csharp-concrete\Visitor.Concrete\obj\Debug\netcoreapp2.2\Visitor.Concrete.dll
+D:\repos\step\dp\design-patterns-csharp-concrete\Visitor.Concrete\obj\Debug\netcoreapp2.2\Visitor.Concrete.pdb

@@ -1,0 +1,10 @@
+D:\repos\step\dp\orig\design-patterns-csharp\Decorator.Conceptual\bin\Debug\netcoreapp2.0\Decorator.Conceptual.deps.json
+D:\repos\step\dp\orig\design-patterns-csharp\Decorator.Conceptual\bin\Debug\netcoreapp2.0\Decorator.Conceptual.runtimeconfig.json
+D:\repos\step\dp\orig\design-patterns-csharp\Decorator.Conceptual\bin\Debug\netcoreapp2.0\Decorator.Conceptual.runtimeconfig.dev.json
+D:\repos\step\dp\orig\design-patterns-csharp\Decorator.Conceptual\bin\Debug\netcoreapp2.0\Decorator.Conceptual.dll
+D:\repos\step\dp\orig\design-patterns-csharp\Decorator.Conceptual\bin\Debug\netcoreapp2.0\Decorator.Conceptual.pdb
+D:\repos\step\dp\orig\design-patterns-csharp\Decorator.Conceptual\obj\Debug\netcoreapp2.0\Decorator.Conceptual.csproj.CoreCompileInputs.cache
+D:\repos\step\dp\orig\design-patterns-csharp\Decorator.Conceptual\obj\Debug\netcoreapp2.0\Decorator.Conceptual.AssemblyInfoInputs.cache
+D:\repos\step\dp\orig\design-patterns-csharp\Decorator.Conceptual\obj\Debug\netcoreapp2.0\Decorator.Conceptual.AssemblyInfo.cs
+D:\repos\step\dp\orig\design-patterns-csharp\Decorator.Conceptual\obj\Debug\netcoreapp2.0\Decorator.Conceptual.dll
+D:\repos\step\dp\orig\design-patterns-csharp\Decorator.Conceptual\obj\Debug\netcoreapp2.0\Decorator.Conceptual.pdb

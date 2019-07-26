@@ -1,0 +1,11 @@
+D:\repos\step\dp\design-patterns-csharp-concrete\Memento.Conceptual\bin\Debug\netcoreapp2.2\Memento.Conceptual.deps.json
+D:\repos\step\dp\design-patterns-csharp-concrete\Memento.Conceptual\bin\Debug\netcoreapp2.2\Memento.Conceptual.runtimeconfig.json
+D:\repos\step\dp\design-patterns-csharp-concrete\Memento.Conceptual\bin\Debug\netcoreapp2.2\Memento.Conceptual.runtimeconfig.dev.json
+D:\repos\step\dp\design-patterns-csharp-concrete\Memento.Conceptual\bin\Debug\netcoreapp2.2\Memento.Conceptual.dll
+D:\repos\step\dp\design-patterns-csharp-concrete\Memento.Conceptual\bin\Debug\netcoreapp2.2\Memento.Conceptual.pdb
+D:\repos\step\dp\design-patterns-csharp-concrete\Memento.Conceptual\obj\Debug\netcoreapp2.2\Memento.Conceptual.csprojAssemblyReference.cache
+D:\repos\step\dp\design-patterns-csharp-concrete\Memento.Conceptual\obj\Debug\netcoreapp2.2\Memento.Conceptual.csproj.CoreCompileInputs.cache
+D:\repos\step\dp\design-patterns-csharp-concrete\Memento.Conceptual\obj\Debug\netcoreapp2.2\Memento.Conceptual.AssemblyInfoInputs.cache
+D:\repos\step\dp\design-patterns-csharp-concrete\Memento.Conceptual\obj\Debug\netcoreapp2.2\Memento.Conceptual.AssemblyInfo.cs
+D:\repos\step\dp\design-patterns-csharp-concrete\Memento.Conceptual\obj\Debug\netcoreapp2.2\Memento.Conceptual.dll
+D:\repos\step\dp\design-patterns-csharp-concrete\Memento.Conceptual\obj\Debug\netcoreapp2.2\Memento.Conceptual.pdb

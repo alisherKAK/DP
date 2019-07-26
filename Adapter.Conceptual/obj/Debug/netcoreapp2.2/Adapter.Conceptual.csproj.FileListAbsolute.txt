@@ -1,0 +1,10 @@
+D:\repos\step\dp\design-patterns-csharp-concrete\Adapter.Conceptual\bin\Debug\netcoreapp2.2\Adapter.Conceptual.deps.json
+D:\repos\step\dp\design-patterns-csharp-concrete\Adapter.Conceptual\bin\Debug\netcoreapp2.2\Adapter.Conceptual.runtimeconfig.json
+D:\repos\step\dp\design-patterns-csharp-concrete\Adapter.Conceptual\bin\Debug\netcoreapp2.2\Adapter.Conceptual.runtimeconfig.dev.json
+D:\repos\step\dp\design-patterns-csharp-concrete\Adapter.Conceptual\bin\Debug\netcoreapp2.2\Adapter.Conceptual.dll
+D:\repos\step\dp\design-patterns-csharp-concrete\Adapter.Conceptual\bin\Debug\netcoreapp2.2\Adapter.Conceptual.pdb
+D:\repos\step\dp\design-patterns-csharp-concrete\Adapter.Conceptual\obj\Debug\netcoreapp2.2\Adapter.Conceptual.csproj.CoreCompileInputs.cache
+D:\repos\step\dp\design-patterns-csharp-concrete\Adapter.Conceptual\obj\Debug\netcoreapp2.2\Adapter.Conceptual.AssemblyInfoInputs.cache
+D:\repos\step\dp\design-patterns-csharp-concrete\Adapter.Conceptual\obj\Debug\netcoreapp2.2\Adapter.Conceptual.AssemblyInfo.cs
+D:\repos\step\dp\design-patterns-csharp-concrete\Adapter.Conceptual\obj\Debug\netcoreapp2.2\Adapter.Conceptual.dll
+D:\repos\step\dp\design-patterns-csharp-concrete\Adapter.Conceptual\obj\Debug\netcoreapp2.2\Adapter.Conceptual.pdb

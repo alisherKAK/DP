@@ -1,0 +1,11 @@
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Concrete.0/bin/Debug/netcoreapp2.2/Bridge.Concrete.0.deps.json
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Concrete.0/bin/Debug/netcoreapp2.2/Bridge.Concrete.0.runtimeconfig.json
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Concrete.0/bin/Debug/netcoreapp2.2/Bridge.Concrete.0.runtimeconfig.dev.json
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Concrete.0/bin/Debug/netcoreapp2.2/Bridge.Concrete.0.dll
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Concrete.0/bin/Debug/netcoreapp2.2/Bridge.Concrete.0.pdb
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Concrete.0/obj/Debug/netcoreapp2.2/Bridge.Concrete.0.csprojAssemblyReference.cache
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Concrete.0/obj/Debug/netcoreapp2.2/Bridge.Concrete.0.csproj.CoreCompileInputs.cache
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Concrete.0/obj/Debug/netcoreapp2.2/Bridge.Concrete.0.AssemblyInfoInputs.cache
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Concrete.0/obj/Debug/netcoreapp2.2/Bridge.Concrete.0.AssemblyInfo.cs
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Concrete.0/obj/Debug/netcoreapp2.2/Bridge.Concrete.0.dll
+/home/kiwagu/projects/own/design-patterns-csharp/Bridge.Concrete.0/obj/Debug/netcoreapp2.2/Bridge.Concrete.0.pdb
